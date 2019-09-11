@@ -2,4 +2,4 @@
 Name: Kashish Jagtiani
 Student ID: 20467931
 
-![alt text](
+![testing](Lab1.png)
